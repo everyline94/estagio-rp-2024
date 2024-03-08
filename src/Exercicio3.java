@@ -14,6 +14,5 @@ public class Exercicio3 {
 
     f) Combinação de progressão aritmetica e elementos que são aumentados em uma unidadem o próximo elemento é 20
 
-
      */
 }

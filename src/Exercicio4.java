@@ -8,7 +8,7 @@ public class Exercicio4 {
             System.out.println("Você está na sala dos interruptores");
             System.out.println("Existem 3 interruptores aqui e você pode ligá-los e desligá-los quantas vezes quiser");
             System.out.println("O objetivo é descobrir qual interruptor controla cada lâmpada");
-            System.out.println("Pressione ENTER para começar.");
+            System.out.println("Pressione ENTER para começar");
             sc.nextLine();
 
             System.out.println("Ligando o interruptor 1");
